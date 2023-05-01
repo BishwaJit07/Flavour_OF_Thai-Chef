@@ -1,0 +1,140 @@
+{
+    "recipes": [
+      {
+        "name": "Pad Thai",
+        "image": "https://i0.wp.com/www.onceuponachef.com/images/2016/03/pad-thai.jpg?resize=760%2C939&ssl=1",
+        "ingredients": [
+          "8 oz. rice noodles",
+          "1 lb. shrimp",
+          "2 tbsp. vegetable oil",
+          "4 garlic cloves, minced",
+          "2 eggs",
+          "2 tbsp. fish sauce",
+          "2 tbsp. brown sugar",
+          "1 tbsp. tamarind paste",
+          "1/4 cup peanuts, chopped",
+          "2 green onions, chopped",
+          "1 lime, cut into wedges"
+        ],
+        "method": [
+          "Soak the rice noodles in warm water for 10 minutes, then drain and set aside.",
+          "Heat the vegetable oil in a wok or large skillet over high heat.",
+          "Add the garlic and shrimp, and cook for 2-3 minutes until the shrimp are pink.",
+          "Push the shrimp to the side of the pan and crack the eggs into the center.",
+          "Scramble the eggs, then mix with the shrimp.",
+          "Add the rice noodles, fish sauce, brown sugar, and tamarind paste, and stir-fry for 2-3 minutes until the noodles are cooked through.",
+          "Stir in the peanuts and green onions.",
+          "Serve with lime wedges."
+        ],
+        "views": 5000
+      },
+      {
+        "name": "Tom Yum Soup",
+        "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
+        "ingredients": [
+          "4 cups chicken broth",
+          "1 stalk lemongrass, sliced",
+          "4 kaffir lime leaves",
+          "1 tbsp. fish sauce",
+          "2 tbsp. lime juice",
+          "1 tbsp. sugar",
+          "1 tbsp. chili paste",
+          "1 cup mushrooms, sliced",
+          "1 lb. shrimp, peeled and deveined",
+          "1/4 cup cilantro leaves"
+        ],
+        "method": [
+          "Bring the chicken broth to a boil in a large pot.",
+          "Add the lemongrass, kaffir lime leaves, fish sauce, lime juice, sugar, and chili paste.",
+          "Simmer for 5 minutes.",
+          "Add the mushrooms and shrimp, and cook for another 3-4 minutes until the shrimp are pink.",
+          "Stir in the cilantro leaves and serve hot."
+        ],
+        "views": 8000
+      },
+
+      {
+        "name": "Green Curry Chicken",
+        "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
+        "ingredients": [
+          "green curry paste",
+          "coconut milk",
+          "chicken",
+          "bamboo shoots",
+          "green beans",
+          "bell peppers",
+          "Thai basil"
+        ],
+        "way_of_making": "1. In a pot, heat green curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and vegetables, and cook until chicken is done.\n4. Serve with Thai basil and rice.",
+        "views": 800
+      },
+
+
+      {
+        "name": "Massaman Curry",
+        "image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
+        "ingredients": [
+          "massaman curry paste",
+          "coconut milk",
+          "beef",
+          "potatoes",
+          "onions",
+          "peanuts",
+          "cinnamon"
+        ],
+        "way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
+        "views": 1200
+      },
+      
+      {
+        "name": "Papaya Salad",
+        "image": "https://static01.nyt.com/images/2014/06/06/dining/Green-Papaya-Salad/Green-Papaya-Salad-articleLarge.jpg",
+        "ingredients": [
+          "green papaya",
+          "carrots",
+          "tomatoes",
+          "peanuts",
+          "lime juice",
+          "fish sauce",
+          "palm sugar",
+          "chili peppers"
+        ],
+        "way_of_making": "1. Shred green papaya and carrots.\n2. Add chopped tomatoes and peanuts.\n3. Mix lime juice, fish sauce, palm sugar, and chili peppers to make dressing.\n4. Toss salad with dressing and serve.",
+        "views": 1500
+      },
+      
+      {
+        "name": "Red Curry Shrimp",
+        "image": "https://thestayathomechef.com/wp-content/uploads/2018/03/Red-Curry-1.jpg",
+        "ingredients": [
+          "red curry paste",
+          "coconut milk",
+          "shrimp",
+          "pineapple",
+          "bell peppers",
+          "Thai basil"
+        ],
+        "way_of_making": "1. In a pot, heat red curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add shrimp, pineapple, and bell peppers, and cook until shrimp is pink.\n4. Serve with Thai basil and rice.",
+        "views": 900
+      },
+      
+      {
+        "name": "Tom Kha Gai",
+        "image": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2020/12/Tom-Kha-Gai-19-mini.jpg?fit=1000%2C667&ssl=1",
+        "ingredients": [
+          "coconut milk",
+          "chicken",
+          "galangal",
+          "lemongrass",
+          "kaffir lime leaves",
+          "mushrooms",
+          "lime juice"
+        ],
+        "way_of_making": "1. Boil galangal, lemongrass, and kaffir lime leaves in water.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and mushrooms, and cook until chicken is done.\n",
+        "views": 400
+    }      
+
+    ]
+}
+
+

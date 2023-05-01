@@ -8,7 +8,8 @@
         "likes": 1000,
         "age": 35,
         "gender": "male",
-        "workplace_name": "Thai Restaurant X"
+        "workplace_name": "Thai Restaurant X",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": "Nan Bunyasaranand",
@@ -18,7 +19,8 @@
         "likes": 800,
         "age": 30,
         "gender": "female",
-        "workplace_name": "Thai Restaurant Y"
+        "workplace_name": "Thai Restaurant Y",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": "Apirawat Chaopo-en",
@@ -28,7 +30,8 @@
         "likes": 1200,
         "age": 45,
         "gender": "male",
-        "workplace_name": "Thai Restaurant Z"
+        "workplace_name": "Thai Restaurant Z",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": "Master Chef Nooror",
@@ -38,7 +41,8 @@
         "likes": 500,
         "age": 25,
         "gender": "female",
-        "workplace_name": "Thai Restaurant X"
+        "workplace_name": "Thai Restaurant X",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": "Thitid “Ton” Tassanakajoh",
@@ -48,7 +52,8 @@
         "likes": 900,
         "age": 40,
         "gender": "male",
-        "workplace_name": "Thai Restaurant Y"
+        "workplace_name": "Thai Restaurant Y",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": "Samak Sundaravej ",
@@ -58,7 +63,8 @@
         "likes": 700,
         "age": 28,
         "gender": "male",
-        "workplace_name": "Thai Restaurant Z"
+        "workplace_name": "Thai Restaurant Z",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": " Chef Jet Tila",
@@ -68,7 +74,8 @@
         "likes": 750,
         "age": 33,
         "gender": "male",
-        "workplace_name": "Thai Restaurant X"
+        "workplace_name": "Thai Restaurant X",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       },
       {
         "name": "CHEF TAM",
@@ -78,7 +85,8 @@
         "likes": 1100,
         "age": 38,
         "gender": "female",
-        "workplace_name": "Thai Restaurant Y"
+        "workplace_name": "Thai Restaurant Y",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
       }
     ]
   }
