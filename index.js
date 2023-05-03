@@ -31,10 +31,10 @@ app.get('/chef',(req, res) => {
 
 
 
-// app.get('/recipe',(req, res) => {
-//   console.log(recipe);
-//     res.send(recipe)
-// })
+app.get('/recipe',(req, res) => {
+  console.log(recipe);
+    res.send(recipe)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
