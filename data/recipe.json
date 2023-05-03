@@ -15,7 +15,7 @@
           "2 green onions, chopped",
           "1 lime, cut into wedges"
         ],
-        "method": [
+        "way_of_making": [
           "Soak the rice noodles in warm water for 10 minutes, then drain and set aside.",
           "Heat the vegetable oil in a wok or large skillet over high heat.",
           "Add the garlic and shrimp, and cook for 2-3 minutes until the shrimp are pink.",
@@ -25,8 +25,23 @@
           "Stir in the peanuts and green onions.",
           "Serve with lime wedges."
         ],
-        "views": 5000
-      },
+        "views": 5000,
+        
+        "chef":[{ "id":"1",
+        "name": "Sirichalerm Svastivadhana",
+        "picture": "https://img.theculturetrip.com/450x/smart/images/56-188494-image-1-chef-kittichai-portrait.jpg",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "age": 35,
+        "gender": "male",
+        "workplace_name": "Thai Restaurant X",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+        
+      }]
+       
+      }
+      ,
       {"id":"1",
         "name": "Tom Yum Soup",
         "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
@@ -42,7 +57,7 @@
           "1 lb. shrimp, peeled and deveined",
           "1/4 cup cilantro leaves"
         ],
-        "method": [
+        "way_of_making": [
           "Bring the chicken broth to a boil in a large pot.",
           "Add the lemongrass, kaffir lime leaves, fish sauce, lime juice, sugar, and chili paste.",
           "Simmer for 5 minutes.",
@@ -65,7 +80,20 @@
           "Thai basil"
         ],
         "way_of_making": "1. In a pot, heat green curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and vegetables, and cook until chicken is done.\n4. Serve with Thai basil and rice.",
-        "views": 800
+        "views": 800,
+        "chef":[
+          {
+        "name": "Nan Bunyasaranand",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Nan-Bunyasaranand-top-chefs-in-thailand.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 800,
+        "age": 30,
+        "gender": "female",
+        "workplace_name": "Thai Restaurant Y",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+      }
+        ]
       },
 
 
@@ -145,7 +173,20 @@
           "lime juice"
         ],
         "way_of_making": "1. Boil galangal, lemongrass, and kaffir lime leaves in water.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and mushrooms, and cook until chicken is done.\n",
-        "views": 400
+        "views": 400,
+        "chef":[
+          {
+        "name": "Apirawat Chaopo-en",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Apirawat-Chaopo-en-Chef-Mai-top-10-chefs-in-thailand.jpeg",
+        "years_of_experience": 15,
+        "num_recipes": 80,
+        "likes": 1200,
+        "age": 45,
+        "gender": "male",
+        "workplace_name": "Thai Restaurant Z",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+      }
+        ]
     },
     {"id":"3",
     "name": "Tom Yum Soup",
@@ -162,7 +203,7 @@
       "1 lb. shrimp, peeled and deveined",
       "1/4 cup cilantro leaves"
     ],
-    "method": [
+    "way_of_making": [
       "Bring the chicken broth to a boil in a large pot.",
       "Add the lemongrass, kaffir lime leaves, fish sauce, lime juice, sugar, and chili paste.",
       "Simmer for 5 minutes.",
@@ -203,7 +244,20 @@
     "cinnamon"
   ],
   "way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
-  "views": 1200
+  "views": 1200,
+  "chef":[
+    {"id":"4",
+        "name": "Master Chef Nooror",
+        "picture": "https://onecms-res.cloudinary.com/image/upload/s--Mz4HhHlT--/c_fill,g_auto,h_523,w_693/f_auto,q_auto/chef-pim-techamuanvivit-nahm-2.jpg?itok=aFxxFSuJ",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 500,
+        "age": 25,
+        "gender": "female",
+        "workplace_name": "Thai Restaurant X",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+      }
+  ]
 },
 
 {"id":"4",
@@ -254,14 +308,27 @@
   "1 lb. shrimp, peeled and deveined",
   "1/4 cup cilantro leaves"
 ],
-"method": [
+"way_of_making": [
   "Bring the chicken broth to a boil in a large pot.",
   "Add the lemongrass, kaffir lime leaves, fish sauce, lime juice, sugar, and chili paste.",
   "Simmer for 5 minutes.",
   "Add the mushrooms and shrimp, and cook for another 3-4 minutes until the shrimp are pink.",
   "Stir in the cilantro leaves and serve hot."
 ],
-"views": 8000
+"views": 8000,
+"chef":[
+  {"id":"5",
+        "name": "Thitid “Ton” Tassanakajoh",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Thitid-%E2%80%9CTon%E2%80%9D-Tassanakajoh-top-10-chefs-in-thailand.jpg",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 900,
+        "age": 40,
+        "gender": "male",
+        "workplace_name": "Thai Restaurant Y",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+      }
+]
 },
 
 {"id":"5",
@@ -294,7 +361,20 @@
     "Thai basil"
   ],
   "way_of_making": "1. In a pot, heat red curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add shrimp, pineapple, and bell peppers, and cook until shrimp is pink.\n4. Serve with Thai basil and rice.",
-  "views": 900
+  "views": 900,
+  "chef":[
+    {"id":"6",
+    "name": "Samak Sundaravej ",
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Samak-Sundaravej-top-10-chefs-in-thailand.jpg",
+    "years_of_experience": 7,
+    "num_recipes": 30,
+    "likes": 700,
+    "age": 28,
+    "gender": "male",
+    "workplace_name": "Thai Restaurant Z",
+    "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+  }
+  ]
 },
 
 
@@ -313,7 +393,7 @@
   "1 lb. shrimp, peeled and deveined",
   "1/4 cup cilantro leaves"
 ],
-"method": [
+"way_of_making": [
   "Bring the chicken broth to a boil in a large pot.",
   "Add the lemongrass, kaffir lime leaves, fish sauce, lime juice, sugar, and chili paste.",
   "Simmer for 5 minutes.",
@@ -339,14 +419,27 @@
   "1 lb. shrimp, peeled and deveined",
   "1/4 cup cilantro leaves"
 ],
-"method": [
+"way_of_making": [
   "Bring the chicken broth to a boil in a large pot.",
   "Add the lemongrass, kaffir lime leaves, fish sauce, lime juice, sugar, and chili paste.",
   "Simmer for 5 minutes.",
   "Add the mushrooms and shrimp, and cook for another 3-4 minutes until the shrimp are pink.",
   "Stir in the cilantro leaves and serve hot."
 ],
-"views": 8000
+"views": 8000,
+"chef":[
+  {"id":"7",
+        "name": " Chef Jet Tila",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Changthong-thai-chefs-768x432.jpg",
+        "years_of_experience": 9,
+        "num_recipes": 35,
+        "likes": 750,
+        "age": 33,
+        "gender": "male",
+        "workplace_name": "Thai Restaurant X",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+      }
+]
 },
 
 {"id":"7",
@@ -377,7 +470,20 @@
   "Thai basil"
 ],
 "way_of_making": "1. In a pot, heat red curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add shrimp, pineapple, and bell peppers, and cook until shrimp is pink.\n4. Serve with Thai basil and rice.",
-"views": 900
+"views": 900,
+"chef":[
+  {"id":"8",
+        "name": "CHEF TAM",
+        "picture": "https://images.prestigeonline.com/wp-content/uploads/sites/8/2021/08/11234037/IMG_7163-scaled-e1628842037370-886x900.jpg",
+        "years_of_experience": 11,
+        "num_recipes": 55,
+        "likes": 1100,
+        "age": 38,
+        "gender": "female",
+        "workplace_name": "Thai Restaurant Y",
+        "des":"With 10 years of experience, Chef A is a skilled male chef who has created 50 delicious Thai recipes. He is 35 years old and works at Thai Restaurant X."
+      }
+]
 },
 
 {"id":"8",
@@ -394,6 +500,7 @@
 ],
 "way_of_making": "1. Boil galangal, lemongrass, and kaffir lime leaves in water.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and mushrooms, and cook until chicken is done.\n",
 "views": 400
+
 }      
 
     ]
