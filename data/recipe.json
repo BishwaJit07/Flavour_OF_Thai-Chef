@@ -1,5 +1,5 @@
  [
-      { "id":"1",
+      { "r_id":"11",     "id":"1",
         "name": "Pad Thai",
         "image": "https://i0.wp.com/www.onceuponachef.com/images/2016/03/pad-thai.jpg?resize=760%2C939&ssl=1",
         "ingredients": [
@@ -27,7 +27,7 @@
         ],
         "views": 5000,
         
-        "chef":[{ "id":"1",
+        "chef":[{ 
         "name": "Sirichalerm Svastivadhana",
         "picture": "https://img.theculturetrip.com/450x/smart/images/56-188494-image-1-chef-kittichai-portrait.jpg",
         "years_of_experience": 10,
@@ -42,7 +42,7 @@
        
       }
       ,
-      {"id":"1",
+      {"r_id":"12",     "id":"1",
         "name": "Tom Yum Soup",
         "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
         "ingredients": [
@@ -67,7 +67,7 @@
         "views": 8000
       },
 
-      {"id":"2",
+      {"r_id":"13",     "id":"2",
         "name": "Green Curry Chicken",
         "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
         "ingredients": [
@@ -97,7 +97,7 @@
       },
 
 
-      {"id":"1",
+      {"r_id":"14",     "id":"1",
         "name": "Massaman Curry",
         "image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
         "ingredients": [
@@ -113,7 +113,7 @@
         "views": 1200
       },
       
-      {"id":"2",
+      {"r_id":"15",     "id":"2",
         "name": "Papaya Salad",
         "image": "https://static01.nyt.com/images/2014/06/06/dining/Green-Papaya-Salad/Green-Papaya-Salad-articleLarge.jpg",
         "ingredients": [
@@ -130,7 +130,7 @@
         "views": 1500
       },
       
-      {"id":"2",
+      {"r_id":"16",     "id":"2",
         "name": "Red Curry Shrimp",
         "image": "https://thestayathomechef.com/wp-content/uploads/2018/03/Red-Curry-1.jpg",
         "ingredients": [
@@ -145,7 +145,7 @@
         "views": 900
       },
       
-      {"id":"2",
+      {"r_id":"17",     "id":"2",
         "name": "Tom Kha Gai",
         "image": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2020/12/Tom-Kha-Gai-19-mini.jpg?fit=1000%2C667&ssl=1",
         "ingredients": [
@@ -160,7 +160,7 @@
         "way_of_making": "1. Boil galangal, lemongrass, and kaffir lime leaves in water.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and mushrooms, and cook until chicken is done.\n",
         "views": 400
     } ,     
-      {"id":"3",
+      {"r_id":"18",     "id":"3",
         "name": "Tom Kha Gai",
         "image": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2020/12/Tom-Kha-Gai-19-mini.jpg?fit=1000%2C667&ssl=1",
         "ingredients": [
@@ -188,7 +188,7 @@
       }
         ]
     },
-    {"id":"3",
+    {"r_id":"19",     "id":"3",
     "name": "Tom Yum Soup",
     "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
     "ingredients": [
@@ -213,7 +213,7 @@
     "views": 8000
   },
 
-  {"id":"3",
+  {"r_id":"20",     "id":"3",
     "name": "Green Curry Chicken",
     "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
     "ingredients": [
@@ -231,7 +231,7 @@
   
   
 
-  {"id":"4",
+  {"r_id":"21",     "id":"4",
   "name": "Massaman Curry",
   "image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
   "ingredients": [
@@ -246,7 +246,7 @@
   "way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
   "views": 1200,
   "chef":[
-    {"id":"4",
+    {
         "name": "Master Chef Nooror",
         "picture": "https://onecms-res.cloudinary.com/image/upload/s--Mz4HhHlT--/c_fill,g_auto,h_523,w_693/f_auto,q_auto/chef-pim-techamuanvivit-nahm-2.jpg?itok=aFxxFSuJ",
         "years_of_experience": 5,
@@ -260,7 +260,7 @@
   ]
 },
 
-{"id":"4",
+{"r_id":"22",     "id":"4",
   "name": "Papaya Salad",
   "image": "https://static01.nyt.com/images/2014/06/06/dining/Green-Papaya-Salad/Green-Papaya-Salad-articleLarge.jpg",
   "ingredients": [
@@ -277,7 +277,7 @@
   "views": 1500
 },
 
-{"id":"4",
+{"r_id":"23",     "id":"4",
   "name": "Red Curry Shrimp",
   "image": "https://thestayathomechef.com/wp-content/uploads/2018/03/Red-Curry-1.jpg",
   "ingredients": [
@@ -293,7 +293,7 @@
 },
 
 
-{"id":"5",
+{"r_id":"24",     "id":"5",
 "name": "Tom Yum Soup",
 "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
 "ingredients": [
@@ -317,7 +317,7 @@
 ],
 "views": 8000,
 "chef":[
-  {"id":"5",
+  {
         "name": "Thitid “Ton” Tassanakajoh",
         "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Thitid-%E2%80%9CTon%E2%80%9D-Tassanakajoh-top-10-chefs-in-thailand.jpg",
         "years_of_experience": 12,
@@ -330,8 +330,40 @@
       }
 ]
 },
+{"r_id":"25",     "id":"5",
+"name": "Green Curry Chicken",
+"image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
+"ingredients": [
+  "green curry paste",
+  "coconut milk",
+  "chicken",
+  "bamboo shoots",
+  "green beans",
+  "bell peppers",
+  "Thai basil"
+],
+"way_of_making": "1. In a pot, heat green curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and vegetables, and cook until chicken is done.\n4. Serve with Thai basil and rice.",
+"views": 800
+},
 
-{"id":"5",
+
+{"r_id":"26",     "id":"5",
+"name": "Massaman Curry",
+"image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
+"ingredients": [
+  "massaman curry paste",
+  "coconut milk",
+  "beef",
+  "potatoes",
+  "onions",
+  "peanuts",
+  "cinnamon"
+],
+"way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
+"views": 1200
+},
+
+{"r_id":"27",     "id":"5",
 "name": "Green Curry Chicken",
 "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
 "ingredients": [
@@ -349,7 +381,7 @@
 
 
 
-{"id":"6",
+{"r_id":"28",     "id":"6",
   "name": "Red Curry Shrimp",
   "image": "https://thestayathomechef.com/wp-content/uploads/2018/03/Red-Curry-1.jpg",
   "ingredients": [
@@ -363,7 +395,7 @@
   "way_of_making": "1. In a pot, heat red curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add shrimp, pineapple, and bell peppers, and cook until shrimp is pink.\n4. Serve with Thai basil and rice.",
   "views": 900,
   "chef":[
-    {"id":"6",
+    {
     "name": "Samak Sundaravej ",
     "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Samak-Sundaravej-top-10-chefs-in-thailand.jpg",
     "years_of_experience": 7,
@@ -377,8 +409,40 @@
   ]
 },
 
+{"r_id":"29",     "id":"6",
+"name": "Green Curry Chicken",
+"image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
+"ingredients": [
+  "green curry paste",
+  "coconut milk",
+  "chicken",
+  "bamboo shoots",
+  "green beans",
+  "bell peppers",
+  "Thai basil"
+],
+"way_of_making": "1. In a pot, heat green curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and vegetables, and cook until chicken is done.\n4. Serve with Thai basil and rice.",
+"views": 800
+},
 
-{"id":"6",
+
+{"r_id":"30",     "id":"6",
+"name": "Massaman Curry",
+"image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
+"ingredients": [
+  "massaman curry paste",
+  "coconut milk",
+  "beef",
+  "potatoes",
+  "onions",
+  "peanuts",
+  "cinnamon"
+],
+"way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
+"views": 1200
+},
+
+{"r_id":"31",     "id":"6",
 "name": "Tom Yum Soup",
 "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
 "ingredients": [
@@ -404,7 +468,7 @@
 },
 
 
-{"id":"7",
+{"r_id":"32",     "id":"7",
 "name": "Tom Yum Soup",
 "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
 "ingredients": [
@@ -428,7 +492,7 @@
 ],
 "views": 8000,
 "chef":[
-  {"id":"7",
+  {
         "name": " Chef Jet Tila",
         "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Changthong-thai-chefs-768x432.jpg",
         "years_of_experience": 9,
@@ -442,7 +506,7 @@
 ]
 },
 
-{"id":"7",
+{"r_id":"33",     "id":"7",
 "name": "Green Curry Chicken",
 "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
 "ingredients": [
@@ -458,7 +522,41 @@
 "views": 800
 },
 
-{"id":"8",
+
+{"r_id":"34",     "id":"7",
+"name": "Massaman Curry",
+"image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
+"ingredients": [
+  "massaman curry paste",
+  "coconut milk",
+  "beef",
+  "potatoes",
+  "onions",
+  "peanuts",
+  "cinnamon"
+],
+"way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
+"views": 1200
+},
+
+
+{"r_id":"35",     "id":"7",
+"name": "Green Curry Chicken",
+"image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
+"ingredients": [
+  "green curry paste",
+  "coconut milk",
+  "chicken",
+  "bamboo shoots",
+  "green beans",
+  "bell peppers",
+  "Thai basil"
+],
+"way_of_making": "1. In a pot, heat green curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and vegetables, and cook until chicken is done.\n4. Serve with Thai basil and rice.",
+"views": 800
+},
+
+{"r_id":"36",     "id":"8",
 "name": "Red Curry Shrimp",
 "image": "https://thestayathomechef.com/wp-content/uploads/2018/03/Red-Curry-1.jpg",
 "ingredients": [
@@ -472,7 +570,7 @@
 "way_of_making": "1. In a pot, heat red curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add shrimp, pineapple, and bell peppers, and cook until shrimp is pink.\n4. Serve with Thai basil and rice.",
 "views": 900,
 "chef":[
-  {"id":"8",
+  {
         "name": "CHEF TAM",
         "picture": "https://images.prestigeonline.com/wp-content/uploads/sites/8/2021/08/11234037/IMG_7163-scaled-e1628842037370-886x900.jpg",
         "years_of_experience": 11,
@@ -486,7 +584,7 @@
 ]
 },
 
-{"id":"8",
+{"r_id":"37",     "id":"8",
 "name": "Tom Kha Gai",
 "image": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2020/12/Tom-Kha-Gai-19-mini.jpg?fit=1000%2C667&ssl=1",
 "ingredients": [
@@ -501,7 +599,40 @@
 "way_of_making": "1. Boil galangal, lemongrass, and kaffir lime leaves in water.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and mushrooms, and cook until chicken is done.\n",
 "views": 400
 
-}      
+}    ,
+{"r_id":"38",     "id":"8",
+"name": "Green Curry Chicken",
+"image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/green-curry-new-sq-2.jpg",
+"ingredients": [
+  "green curry paste",
+  "coconut milk",
+  "chicken",
+  "bamboo shoots",
+  "green beans",
+  "bell peppers",
+  "Thai basil"
+],
+"way_of_making": "1. In a pot, heat green curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add chicken and vegetables, and cook until chicken is done.\n4. Serve with Thai basil and rice.",
+"views": 800
+
+},
+
+
+{"r_id":"39",     "id":"8",
+"name": "Massaman Curry",
+"image": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg",
+"ingredients": [
+  "massaman curry paste",
+  "coconut milk",
+  "beef",
+  "potatoes",
+  "onions",
+  "peanuts",
+  "cinnamon"
+],
+"way_of_making": "1. In a pot, heat massaman curry paste until fragrant.\n2. Add coconut milk and bring to a simmer.\n3. Add beef, potatoes, onions, and cinnamon, and cook until beef is done.\n4. Serve with peanuts and rice.",
+"views": 1200
+}  
 
     ]
 
